@@ -15,6 +15,27 @@ System Control Theory is a critical field in engineering and applied mathematics
 
 Understanding the dynamics of the system is fundamental to designing effective control mechanisms. This involves not only knowing the current state of the system but also how it will react to different inputs and external conditions. With this knowledge, control engineers can create systems that are not only stable—meaning they return to a desired state after a disturbance—but also efficient, minimizing energy use or time, and robust, capable of handling uncertainties and variations in system parameters. These characteristics are crucial in real-world applications where systems must perform reliably under various conditions. From aerospace to automotive, and from robotics to manufacturing, System Control Theory plays a vital role in ensuring that complex systems operate safely, efficiently, and effectively.
 
+<br>
+
+```
++-------------------+------------------------------------------+
+| System Type       | Example                                  |
++-------------------+------------------------------------------+
+| 1. Mechanical     | Pendulum, Robot Arm, Mass-Spring-Damper  |
+| 2. Electrical     | RLC Circuit, DC Motor, Inverter          |
+| 3. Thermal        | Heating System, Heat Exchanger           |
+| 4. Chemical       | Reactor, Distillation Column             |
+| 5. Biological     | Population Dynamics, Enzyme Kinetics     |
+| 6. Economic       | Supply and Demand Model, Market Dynamics |
+| 7. Hydraulic      | Fluid Flow in Pipes, Hydraulic Actuator  |
+| 8. Aerospace      | Aircraft Pitch Control, Satellite Orbit  |
+| 9. Robotics       | Autonomous Navigation, Robotic Arm       |
+| 10. Environmental | Climate Models, Pollution Control        |
+| 11. Automotive    | Cruise Control, ABS Braking System       |
+| 12. Energy        | Power Grid Stability, Wind Turbine       |
++-------------------+------------------------------------------+
+```
+
 #
 ### Related Links
 
