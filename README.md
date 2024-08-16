@@ -40,6 +40,8 @@ Understanding the dynamics of the system is fundamental to designing effective c
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[System Structure](https://github.com/sourceduty/System_Structure)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
