@@ -46,6 +46,10 @@ On the other hand, System Control Theory is a field deeply rooted in engineering
 While System Structure is more concerned with the overall architecture and design of systems, System Control Theory delves into the specifics of how to manage and control dynamic systems to achieve desired outcomes. Together, these disciplines contribute to creating well-designed, efficient, and reliable systems, with System Structure providing the blueprint and System Control Theory ensuring that these systems operate optimally under real-world conditions.
 
 #
+
+![System Control Room](https://github.com/user-attachments/assets/f5363756-4de3-49e2-a69d-6bc6530658ac)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
